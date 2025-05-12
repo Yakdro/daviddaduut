@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a passionate Front-End Developer focused on building clean, user-friendly websites and web applications. I'm currently sharpening my skills in HTML, CSS, and JavaScript and documenting my learning journey through daily projects.
+I'm a passionate Front-End Developer who builds clean, user-friendly websites and web applications. I'm currently sharpening my HTML, CSS, and JavaScript skills and documenting my learning journey through daily projects.
 
 ## About Me
 I'm a frontend developer in training, passionate about building clean and user-friendly web interfaces.

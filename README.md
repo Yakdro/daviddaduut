@@ -2,30 +2,35 @@
 
 Welcome to my GitHub profile!
 
-I'm a passionate Front-End Developer who builds clean, user-friendly websites and web applications. I'm currently sharpening my HTML, CSS, and JavaScript skills and documenting my learning journey through daily projects.
+I'm a passionate **Frontend Developer** who builds clean, user-friendly websites and web applications. I'm currently sharpening my skills in **HTML**, **CSS**, and **JavaScript**, and documenting my learning journey through daily UI projects.
 
-## About Me
-I'm a frontend developer in training, passionate about building clean and user-friendly web interfaces.
+---
 
-- 🌱 I’m currently learning **HTML**, **CSS**, and **JavaScript**
-- 🛠️ I’m building mini UI projects daily to sharpen my skills
-- 🔍 I’m exploring design, accessibility, and clean code practices
-- 💬 Ask me about **responsive layouts**, **frontend learning tips**, or **HTML structure**
+## 📌 About Me
 
-  ## RoadMap
+- 🌱 Currently learning: **HTML**, **CSS**, and **JavaScript**
+- 🛠️ Building: Mini UI projects daily to sharpen my frontend skills
+- 🔍 Exploring: Responsive design, accessibility, and clean code practices
+- 💬 Ask me about: Layout structure, beginner-friendly tools, or how I’m learning
+
+---
+
+## 🚀 Roadmap
+
 - **Learning Path:** Frontend Web Development (HTML, CSS, JavaScript)
-- **Current Focus:** Building and improving daily projects to master the fundamentals
-- **Goals:** Become a confident developer, build real-world applications, and collaborate on exciting projects
+- **Current Focus:** Daily practice and real-world mini builds
+- **Goals:** Build real-world apps, grow confidence, and collaborate on open projects
 
-## 🌐 Let's Connect
+---
 
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/david-daduut-0a2890252/)
+## 🌐 Let’s Connect
+
+- **LinkedIn:** [David Daduut](https://www.linkedin.com/in/david-daduut-0a2890252/)
 - **Location:** Remote / Available Worldwide
 - **Open to:** Learning opportunities, collaborations, and internships
 
 ---
-> “Keep showing up — growth comes one commit at a time.”
->
-> 
-_Thanks for checking out my profile — stay tuned for more updates!_
 
+> _“Keep showing up — growth comes one commit at a time.”_
+
+Thanks for checking out my profile — stay tuned for more updates!

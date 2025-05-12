@@ -19,7 +19,7 @@ I'm a frontend developer in training, passionate about building clean and user-f
 
 ## 🌐 Let's Connect
 
-- **LinkedIn:** [LinkedIn](linkedin.com/in/david-daduut-0a2890252/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/david-daduut-0a2890252/)
 - **Location:** Remote / Available Worldwide
 - **Open to:** Learning opportunities, collaborations, and internships
 
